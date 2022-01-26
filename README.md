@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 - 🔭 Hoje estou trabalhando como FULL STACK em <img align="center" alt="" height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg'>
   <img align="center" alt="" height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg'>  
 - 🌱 Estudando   <img align="center" alt="" height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg'>
+- <img align="center" alt="" height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/android/andorid-plain.svg'>
 
 <div>
   <a href="https://github.com/haru6">
@@ -21,4 +22,5 @@ Here are some ideas to get you started:
   <img align="center" alt="" height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg'>
   <img align="center" alt="" height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg'>
   <img align="center" alt="" height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg'>
+  <img align="center" alt="" height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/android/andorid-plain.svg'>
 </div>
