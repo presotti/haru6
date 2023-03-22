@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 Estudando   <img align="center" alt="" height="30" width="40" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg'>   <img align="center" alt="" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" />
 
 <div>
-  <a href="https://github.com/haru6">
+  <a href="https://github.com/presotti">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haru6&show_icons=true&include_all_commits=true&theme=tokyonight">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haru6&layout=compact&langs_count=16&theme=tokyonight">
   </a>
